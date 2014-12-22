@@ -74,4 +74,5 @@ Features:
 
 Disclaimer:
 -----------
-I recommend you to read the code and understand what the generated bash script does. Recovering data is hard and I cannot say this script is gonna help every time. If your data is important, do not attempt to rescue directly as you might damage the drive even futher.
+I recommend you to read the code and understand what the generated bash script does. Recovering data is hard and I cannot say this script is gonna help every time. If your data is important, do not attempt to rescue directly as you might damage the drive even further.
+Tested on a MacOS X.
